@@ -2,5 +2,5 @@ Weather App (still in progress) in iOS designed for iPhone and iPad. The project
 
 Updates:
 
-Home Screen - Completed
+Home Screen - Completed .....
 Search Location Screen - In Progress
